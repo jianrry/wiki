@@ -1,2 +1,2 @@
-# wiki
-Knowledge Bases
+# Initial page
+

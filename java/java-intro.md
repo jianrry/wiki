@@ -62,7 +62,7 @@ Java 是一门介于编译型和解释型的编程语言，通过 JDK 中的 Jav
 
 JRE 是 Java Runtime Environment（Java 运行时环境）的缩写，包含了 JVM 和运行 Java 程序的其他环境支持．如果你想要运行一个 Java 程序，只需要安装 JRE 就可以了，无需安装 JDK.
 
-JDK 是 Java Development Kit（Java 开发工具包），包含了 JRE 和编译器 调试器等．如果你想要开发一个 Java 程序，就必须安装 JDK．安装 JDK 之后，就包含了 JRE，也可以运行 Java 程序.
+JDK 是 Java Development Kit（Java 开发工具包）的缩写，包含了 JRE 和编译器 调试器等．如果你想要开发一个 Java 程序，就必须安装 JDK．安装 JDK 之后，就包含了 JRE，也可以运行 Java 程序.
 
 它们之间的关系是
 

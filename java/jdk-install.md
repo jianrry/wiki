@@ -54,3 +54,7 @@
 
 ![](https://netdisc.jianrry.com/images/java-se-set-env-3.png)
 
+### 参考资料
+
+[Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+

@@ -94,3 +94,7 @@ Java 源代码的文件名必须与类名一致．
 
 Java 是一门介于编译型和解释型的编程语言，通过 JDK 中的 Java 编译器，将 Java 源代码（.java后缀名的文件）编译成 Java 字节码（.class后缀名的文件）．然后通过各个平台（Windows/Linux/MacOS）的 JVM ，将 Java 字节码（.class后缀名的文件） 转换为对应平台的机器码，在对应平台上运行．从而实现了＂一次编译，到处运行＂，所以说 Java 语言是跨平台的.
 
+### 参考资料
+
+[Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+

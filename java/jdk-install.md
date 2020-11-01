@@ -4,7 +4,7 @@
 
 如果你想要开发和运行一个 Java 程序，就必须要安装 JDK．所以，我们要做的第一件事就是安装JDK.
 
-### 下载
+### 下载JDK
 
 建议从 [Oracle 官网](https://www.oracle.com/java/technologies/javase-downloads.html)下载最新版本的 JDK，下面以下载 JDK15 的 Windows x64 版本为例：
 
@@ -14,7 +14,7 @@
 
 ![](https://netdisc.jianrry.com/images/java-se-download-3.png)
 
-### 安装
+### 安装JDK
 
 双击打开下载的文件，按照安装提示，一步步进行操作
 

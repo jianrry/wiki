@@ -17,7 +17,7 @@ public class HelloWorld {
 
         }
 
-    }
+}
 ```
 
 2.在`HelloWorld.java`的存放目录下，打开Windows PowerShell，输入下面的代码

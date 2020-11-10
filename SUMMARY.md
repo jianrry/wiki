@@ -9,4 +9,5 @@
   * [Java 数据类型](java/data-types.md)
 * [工具](tools/README.md)
   * [Eclipse](https://www.eclipse.org)
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
